@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-kr",
+  "version": "1.0.0",
+  "description": "박태윤 포트폴리오",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpark16/portfolio-kr.git"
+  },
+  "author": "박태윤",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tpark16/portfolio-kr/issues"
+  },
+  "homepage": "https://github.com/tpark16/portfolio-kr#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  }
+}
