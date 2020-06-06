@@ -3505,7 +3505,7 @@ input, select, textarea {
 					margin: 0;
 				}
 
-				.content .typewriter {
+				#typewriter {
 					overflow: hidden;
 					white-space: nowrap;
 					margin: 0 auto;
