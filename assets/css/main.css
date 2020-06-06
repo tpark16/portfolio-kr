@@ -3509,7 +3509,7 @@ input, select, textarea {
 					overflow: hidden;
 					white-space: nowrap;
 					margin: 0 auto;
-					-webkit-animation: typing 3.5s steps(100, end),
+					animation: typing 3.5s steps(100, end),
 										 blink-caret .5s step-end infinite;
 				}
 
