@@ -638,6 +638,13 @@ input, select, textarea {
 		width: 70em;
 	}
 
+	.container_about{
+		margin: 0 auto;
+		max-width: calc(100% - 4em);
+		width: 70em;
+		height: 200px;
+	}
+
 		.container.xsmall {
 			width: 17.5em;
 		}
@@ -3505,7 +3512,7 @@ input, select, textarea {
 					margin: 0;
 				}
 
-				#typewriter {
+				#banner .content header .typewriter {
 					overflow: hidden;
 					white-space: nowrap;
 					margin: 0 auto;
