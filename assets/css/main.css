@@ -3512,7 +3512,7 @@ input, select, textarea {
 					margin: 0;
 				}
 
-				#banner .content header .typewriter {
+				.typewriter {
 					overflow: hidden;
 					white-space: nowrap;
 					margin: 0 auto;
