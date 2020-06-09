@@ -655,6 +655,7 @@ input, select, textarea {
 
 		.container.medium {
 			width: 52.5em;
+			height: 250px;
 		}
 
 		.container.large {
