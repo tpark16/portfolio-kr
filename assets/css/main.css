@@ -120,7 +120,8 @@ input, select, textarea {
 		text-decoration: none;
 		/* width: 30px;
 		height: 30px; */
-		padding: 0 5px 0 5px;
+		padding: 0 25px 0 25px;
+		border-bottom: none;
 	}
 
 		a:hover {
