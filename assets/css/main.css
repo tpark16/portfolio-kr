@@ -115,6 +115,14 @@ input, select, textarea {
 		text-decoration: none;
 	}
 
+	a .icon{
+		color: #ffffff;
+		text-decoration: none;
+		/* width: 30px;
+		height: 30px; */
+		padding: 0 5px 0 5px;
+	}
+
 		a:hover {
 			color: #e44c65 !important;
 			border-bottom-color: transparent;
